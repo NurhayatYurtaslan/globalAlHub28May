@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "globalAlHub28May", "globalAlHub28May\globalAlHub28May.pyproj", "{FED07947-1E2C-4462-9355-EF49CA6EEC93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FED07947-1E2C-4462-9355-EF49CA6EEC93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FED07947-1E2C-4462-9355-EF49CA6EEC93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB8E1940-D5DF-4B20-98E0-6A303A961500}
+	EndGlobalSection
+EndGlobal
